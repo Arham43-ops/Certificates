@@ -2,439 +2,438 @@
 
 # ✦ ARHAM TOPIWALA ✦
 
-### *Full-Stack Developer | Creative Developer | Software Engineer*
+### *Creative Developer | Full-Stack Developer | Software Engineer*
 
----
+**Professional Certificate & Credential Repository**
 
-[![Total Certifications](https://img.shields.io/badge/Total%20Certifications-85+-blue?style=for-the-badge&logo=googlescholar)](https://)
-[![AI/ML Focus](https://img.shields.io/badge/AI%2FML%20Certs-14-green?style=for-the-badge&logo=openai)](https://)
-[![Cybersecurity](https://img.shields.io/badge/Security%20Certs-7-red?style=for-the-badge&logo=shield)](https://)
-[![Verified Skills](https://img.shields.io/badge/HackerRank%20Skills-9-yellow?style=for-the-badge&logo=hackerrank)](https://)
-[![Google Certified](https://img.shields.io/badge/Google%20Certified-17-orange?style=for-the-badge&logo=google)](https://)
+[![Coursera](https://img.shields.io/badge/Coursera-66%20files-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](#-coursera-certificates)
+[![HackerRank](https://img.shields.io/badge/HackerRank-9%20certificates-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](#-hackerrank-certificates)
+[![UniAthena](https://img.shields.io/badge/UniAthena-4%20certificates-6C63FF?style=for-the-badge)](#-uniathena-certificates)
+[![iCAT Internship](https://img.shields.io/badge/iCAT%20Internship-3%20documents-F39C12?style=for-the-badge)](#-icat-internship)
 
-**`🎯 Mission: Architecting Intelligent, Secure, and Scalable Digital Solutions`**
-
-</div>
-
----
-
-## 📊 Executive Dashboard
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                         COMPETENCY MATRIX                                   │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  SOFTWARE ENGINEERING        ████████████████████████████████████  95%     │
-│  (Python, C/C++, Java, PHP, JavaScript, SQL, C#)                           │
-│                                                                             │
-│  ARTIFICIAL INTELLIGENCE     ██████████████████████████████████░░  92%     │
-│  (GenAI, ML Algorithms, Prompt Engineering, Streamlit, Neural Networks)    │
-│                                                                             │
-│  CYBERSECURITY               ████████████████████████████████░░░░  88%     │
-│  (Ethical Hacking, Network Security, Enterprise Security, Penetration)   │
-│                                                                             │
-│  CLOUD COMPUTING             ████████████████████████████░░░░░░░░  80%     │
-│  (Oracle Cloud, OCI AI, Infrastructure, RDMA Programming)                    │
-│                                                                             │
-│  DIGITAL MARKETING           ██████████████████████████████████░░  90%     │
-│  (SEO, Content Strategy, Analytics, E-commerce, Email Marketing)           │
-│                                                                             │
-│  DATA SCIENCE                ████████████████████████████████░░░░  85%     │
-│  (R, Python Data Analysis, Visualization, Statistical Computing)           │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🏅 Achievement Highlights
-
-<div align="center">
-
-| 🎯 **85+** | 🧠 **14** | 🛡️ **7** | ☁️ **5** | 🌐 **17** | 🎓 **3** | ⭐ **9** |
-|:----------:|:--------:|:--------:|:--------:|:---------:|:--------:|:--------:|
-| Total Certifications | AI/ML Specializations | Security Credentials | Cloud Certifications | Google Certifications | Internship Documents | HackerRank Skills |
+**82 credential / professional documents • 86-page merged archive**
 
 </div>
 
 ---
 
-## 🎓 Academic & Professional Credential Portfolio
+## 📌 About This Repository
 
-### 🧠 ARTIFICIAL INTELLIGENCE & MACHINE LEARNING ARSENAL
+This repository is a centralized archive of my professional learning, technical certifications, verified skill assessments, internship documentation, and resume.
 
-> **Specialization:** Generative AI, Large Language Models, MLOps, and Production-Ready AI Applications
+It is organized so that individual credentials can be accessed by platform while the **`Merged Certificates.pdf`** provides a single consolidated view of the complete certificate archive.
 
-<details>
-<summary><b>🔬 Core AI/ML Competencies (Click to Expand)</b></summary>
+### Repository at a glance
 
-| Credential | Issuing Authority | Competency Domain | Proficiency |
-|:-----------|:------------------|:------------------|:------------|
-| **Oracle Cloud Infrastructure Generative AI Professional** | Oracle | Enterprise GenAI Deployment | ████████░░ Advanced |
-| **IBM Generative AI for Cybersecurity Professionals** | IBM | AI-Powered Threat Detection | ████████░░ Advanced |
-| **Generative AI - Elevate your Software Development Career** | IBM | GenAI for Code Generation | ███████░░░ Intermediate |
-| **Generative AI - Boost Your Cybersecurity Career** | IBM | Security-Focused GenAI | ███████░░░ Intermediate |
-| **Fast Prototyping of GenAI Apps with Streamlit** | Coursera | Rapid AI App Development | ████████░░ Advanced |
-| **Build a Machine Learning Web App with Streamlit and Python** | Coursera | ML Model Deployment | ████████░░ Advanced |
-| **AI and Machine Learning Algorithms and Techniques** | Google | Advanced ML Theory | ████████░░ Advanced |
-| **AI Infrastructure and Operations Fundamentals** | Google | MLOps & AI Operations | ███████░░░ Intermediate |
-| **Foundations of AI and Machine Learning** | Google | Core AI/ML Principles | ████████░░ Advanced |
-| **Generative AI - Introduction and Applications** | IBM | GenAI Fundamentals | ████████░░ Advanced |
-| **Generative AI - Prompt Engineering Basics** | IBM | Prompt Design & Optimization | ████████░░ Advanced |
-| **Introduction to Artificial Intelligence (AI)** | IBM | AI Concepts & Ethics | ████████░░ Advanced |
-| **Oracle Cloud Infrastructure AI Foundations** | Oracle | Cloud-Native AI Services | ███████░░░ Intermediate |
-| **Create Interactive Dashboards with Streamlit and Python** | Coursera | Data Visualization | ████████░░ Advanced |
-| **Chatbots** | Coursera | Conversational AI | ███████░░░ Intermediate |
+| Category | Files / Documents | Contents |
+|:--|--:|:--|
+| 🎓 **Coursera Certificates** | **66** | Technical, AI/ML, cybersecurity, software development, cloud, marketing, data, mobile and productivity credentials |
+| 🏆 **HackerRank Certificates** | **9** | Verified technical skill and role assessments |
+| 💼 **iCAT Internship** | **3** | Offer letter, training certificate and internship completion certificate |
+| 📚 **UniAthena Certificates** | **4** | AI, Machine Learning, Python and ChatGPT credentials |
+| 📄 **Resume** | **1** | Current professional resume |
+| 📦 **Merged Certificates.pdf** | **86 pages** | Complete consolidated certificate/document archive |
+| 📖 **README.md** | **1** | Repository documentation |
 
-</details>
-
-**Key AI/ML Capabilities:**
-- ✅ Production-ready GenAI application development using Streamlit
-- ✅ Enterprise-grade AI deployment on Oracle Cloud Infrastructure
-- ✅ Advanced prompt engineering for business applications
-- ✅ End-to-end ML pipeline creation and deployment
-- ✅ AI-powered cybersecurity solution architecture
+> **Total individual credential / internship documents: 82**  
+> *(66 Coursera + 9 HackerRank + 3 iCAT + 4 UniAthena)*
 
 ---
 
-### 🛡️ CYBERSECURITY FORTRESS
+## 🗂️ Repository Structure
 
-> **Specialization:** Ethical Hacking, Penetration Testing, Enterprise Security Architecture
-
-<details>
-<summary><b>🔐 Security Credentials Vault (Click to Expand)</b></summary>
-
-| Credential | Issuing Authority | Security Domain | Level |
-|:-----------|:------------------|:----------------|:------|
-| **Ethical Hacking Specialization** | EC-Council | Comprehensive Penetration Testing | 🏆 Expert |
-| **Advanced Ethical Hacking & Cybersecurity** | EC-Council | Advanced Exploitation Techniques | 🏆 Expert |
-| **Ethical Hacking Practice Project & Questions** | EC-Council | Practical Assessment | 🏆 Expert |
-| **Ethical Hacking Fundamentals** | EC-Council | Security Foundations | 🏆 Expert |
-| **System & Network Security Essentials** | EC-Council | Network Defense | ⭐ Advanced |
-| **Enterprise and Infrastructure Security** | EC-Council | Corporate Security Architecture | ⭐ Advanced |
-| **Introduction to Cybersecurity Essentials** | IBM | Security Basics | ⭐ Advanced |
-
-</details>
-
-**Security Arsenal:**
-- 🔴 **Red Team Capabilities:** Penetration testing, vulnerability assessment, exploit development
-- 🔵 **Blue Team Capabilities:** Network defense, incident response, security monitoring
-- 🟡 **Enterprise Security:** Infrastructure hardening, compliance frameworks, risk management
-
----
-
-### 💻 SOFTWARE ENGINEERING MASTERY
-
-> **Specialization:** Full-Stack Development, System Programming, Database Architecture
-
-#### 🎯 Programming Language Spectrum
-
-```
-Language Proficiency Radar:
-
-Python      ████████████████████████████████████████████████████  [95%] Expert
-JavaScript  ██████████████████████████████████████████████████░░  [92%] Expert  
-C/C++       ████████████████████████████████████████████████░░░░  [88%] Advanced
-Java        ██████████████████████████████████████████████░░░░░░  [85%] Advanced
-PHP         ████████████████████████████████████████████░░░░░░░░  [82%] Advanced
-SQL         ████████████████████████████████████████████████░░░░  [88%] Advanced
-C#          ██████████████████████████████████████████░░░░░░░░░░  [80%] Advanced
-R           ████████████████████████████████████████░░░░░░░░░░░░  [78%] Advanced
-```
-
-<details>
-<summary><b>💡 Development Credentials (Click to Expand)</b></summary>
-
-| Credential | Provider | Stack | Type |
-|:-----------|:---------|:------|:-----|
-| **Master Full-Stack Web Development with Laravel & PHP** | Coursera | PHP, Laravel, MySQL | Full-Stack |
-| **Learn Object-Oriented Programming with PHP** | Coursera | PHP, OOP Principles | Backend |
-| **Interactivity with JavaScript** | University of Michigan | JavaScript, DOM | Frontend |
-| **Introduction to HTML5** | University of Michigan | HTML5, Semantic Web | Frontend |
-| **Programming for Everybody (Getting Started with Python)** | University of Michigan | Python Basics | Backend |
-| **Python Data Structures** | University of Michigan | Python Advanced | Backend |
-| **Using Python to Access Web Data** | University of Michigan | Python, APIs, Scraping | Data |
-| **Capstone - Retrieving, Processing, and Visualizing Data with Python** | University of Michigan | Python Data Science | Analytics |
-| **C for Everyone, Part 1 - Programming Fundamentals** | UC Santa Cruz | C Programming | Systems |
-| **C++ For C Programmers, Part A** | UC Santa Cruz | C++ Fundamentals | Systems |
-| **C++ For C Programmers, Part B** | UC Santa Cruz | Advanced C++ | Systems |
-| **Java Basic** | HackerRank | Java Core | Verified |
-| **JavaScript Basic & Intermediate** | HackerRank | JS Core + ES6+ | Verified |
-| **Python Basic** | HackerRank | Python Core | Verified |
-| **C# Basic** | HackerRank | C# Core | Verified |
-
-</details>
-
----
-
-### 📱 MOBILE & EMERGING TECHNOLOGIES
-
-| Credential | Provider | Technology | Application |
-|:-----------|:---------|:-----------|:------------|
-| **Introduction to Mobile App Development** | Meta | Cross-Platform | Mobile Strategy |
-| **Introduction to Android Mobile Application Development** | Meta | Android Native | Native Apps |
-| **Build Your First Android App** | Coursera | Android Studio | Hands-on Project |
-| **The Fundamentals of RDMA Programming** | Coursera | High-Performance Computing | Low-Latency Systems |
-| **Introduction to Networking** | Coursera | Network Protocols | Infrastructure |
-
----
-
-### ☁️ CLOUD INFRASTRUCTURE & DATA ARCHITECTURE
-
-> **Specialization:** Oracle Cloud Infrastructure, Database Management, High-Performance Computing
-
-| Credential | Provider | Cloud Service | Competency |
-|:-----------|:---------|:--------------|:-----------|
-| **Oracle Cloud Infrastructure Generative AI Professional** | Oracle | OCI GenAI Service | Enterprise AI |
-| **Oracle Cloud Infrastructure AI Foundations** | Oracle | OCI AI/ML | Cloud AI |
-| **Introduction to Oracle Cloud Essentials** | Oracle | Core OCI | Cloud Fundamentals |
-| **Oracle Cloud and AI** | Oracle | Cloud + AI Integration | Hybrid Solutions |
-| **SQL - A Practical Introduction for Querying Databases** | IBM | SQL Programming | Data Querying |
-| **Introduction to Relational Databases (RDBMS)** | IBM | Database Design | Data Architecture |
-| **R Programming** | Johns Hopkins University | Statistical Computing | Data Science |
-
----
-
-## 🌐 GOOGLE DIGITAL MARKETING & E-COMMERCE EMPIRE
-
-> **Specialization:** Complete Digital Marketing Lifecycle - From Acquisition to Retention
-
-### 🎯 Google Digital Marketing & E-Commerce Certificate (Complete Specialization)
-
-```
-Marketing Funnel Architecture:
-
-AWARENESS ───► CONSIDERATION ───► CONVERSION ───► RETENTION
-     │               │                │               │
-     ▼               ▼                ▼               ▼
-┌─────────┐    ┌──────────────┐   ┌──────────┐   ┌──────────────┐
-│ SEO     │───►│ Social Media │──►│ E-commerce│──►│ Email        │
-│ Content │    │ Engagement   │   │ Stores   │   │ Marketing    │
-└─────────┘    └──────────────┘   └──────────┘   └──────────────┘
-```
-
-<details>
-<summary><b>📈 Marketing Credential Portfolio (Click to Expand)</b></summary>
-
-| # | Credential | Marketing Function | Skill Level |
-|:-:|:-----------|:-------------------|:------------|
-| 1 | **Google Digital Marketing & E-commerce** (Complete Certificate) | Full-Stack Marketing | 🏆 Professional |
-| 2 | **Foundations of Digital Marketing and E-commerce** | Strategy & Planning | ⭐ Advanced |
-| 3 | **Attract and Engage Customers with Digital Marketing** | Customer Acquisition | ⭐ Advanced |
-| 4 | **From Likes to Leads - Interact with Customers Online** | Social Media Marketing | ⭐ Advanced |
-| 5 | **Think Outside the Inbox - Email Marketing** | Email Campaigns | ⭐ Advanced |
-| 6 | **Assess for Success - Marketing Analytics and Measurement** | Data Analytics | ⭐ Advanced |
-| 7 | **Make the Sale - Build, Launch, and Manage E-commerce Stores** | E-commerce | ⭐ Advanced |
-| 8 | **Satisfaction Guaranteed - Develop Customer Loyalty Online** | Retention | ⭐ Advanced |
-| 9 | **Google SEO Fundamentals** | Search Optimization | ⭐ Advanced |
-| 10 | **Introduction to Google SEO** | SEO Basics | ⭐ Advanced |
-| 11 | **Optimizing a Website for Google Search** | Technical SEO | ⭐ Advanced |
-| 12 | **Advanced Content and Social Tactics to Optimize SEO** | Content Marketing | ⭐ Advanced |
-| 13 | **Google SEO Capstone Project** | Practical SEO | ⭐ Advanced |
-| 14 | **Search Engine Optimization (SEO)** | Comprehensive SEO | ⭐ Advanced |
-
-</details>
-
-**Marketing Tech Stack:**
-- 🔍 **SEO:** Technical SEO, Content Strategy, Keyword Research, Site Optimization
-- 📧 **Email:** Campaign Management, Automation, Analytics
-- 📱 **Social:** Community Management, Lead Generation, Engagement Strategy
-- 📊 **Analytics:** Google Analytics, Marketing Measurement, Data-Driven Decision Making
-- 🛒 **E-commerce:** Store Management, Conversion Optimization, Customer Journey
-
----
-
-## 🛠️ GOOGLE WORKSPACE & PRODUCTIVITY EXPERTISE
-
-| Credential | Tool | Application |
-|:-----------|:-----|:------------|
-| **Google Calendar** | Calendar Management | Time Optimization |
-| **Google Docs** | Document Creation | Content Development |
-| **Google Drive** | Cloud Storage | File Management |
-| **Google Sheets - Advanced Topics** | Data Analysis | Spreadsheets & Analytics |
-| **Google Slides** | Presentation Design | Visual Communication |
-| **Getting Started with Microsoft Excel** | Excel | Advanced Data Manipulation |
-
----
-
-## 🏆 HACKERRANK VERIFIED TECHNICAL COMPETENCIES
-
-> **Status:** 9 Skills Verified Through Rigorous Technical Assessments
-
-```
-┌────────────────────────────────────────────────────────────────┐
-│              TECHNICAL SKILL CERTIFICATION MATRIX                │
-├────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│   🐍 Python (Basic)        ████████████████████  VERIFIED     │
-│   ☕ Java (Basic)          ████████████████████  VERIFIED     │
-│   🎯 C# (Basic)            ████████████████████  VERIFIED     │
-│   🌐 JavaScript (Basic)    ████████████████████  VERIFIED     │
-│   ⚡ JavaScript (Inter.)   ████████████████████████  VERIFIED │
-│   🎨 CSS                   ████████████████████  VERIFIED     │
-│   🗄️ SQL (Basic)           ████████████████████  VERIFIED     │
-│   ⚛️ Frontend (React)      ████████████████████  VERIFIED     │
-│   👨‍💻 Software Engineer    ████████████████████████  VERIFIED │
-│                                                                  │
-└────────────────────────────────────────────────────────────────┘
+```text
+📦 Certification Portfolio
+│
+├── 📁 Coursera Certificates/          # 66 files
+│   ├── AI / Machine Learning
+│   ├── Generative AI
+│   ├── Cybersecurity
+│   ├── Software & Web Development
+│   ├── Cloud & Infrastructure
+│   ├── Data & Databases
+│   ├── Digital Marketing & SEO
+│   ├── Mobile Development
+│   ├── Networking / HPC
+│   └── Productivity
+│
+├── 📁 Hackerrank Certificates/        # 9 files
+│   ├── C# Basic
+│   ├── CSS Basic
+│   ├── Frontend Developer (React)
+│   ├── Java Basic
+│   ├── JavaScript Basic
+│   ├── JavaScript Intermediate
+│   ├── Python Basic
+│   ├── Software Engineer
+│   └── SQL Basic
+│
+├── 📁 Icat Internship/                # 3 files
+│   ├── Offer Letter
+│   ├── Training Certificate
+│   └── Internship Completion Certificate
+│
+├── 📁 UniAthena Certificates/         # 4 certificates
+│   ├── Basics of Artificial Intelligence
+│   ├── Basics of Machine Learning Algorithms
+│   ├── Basics of Python
+│   └── Master ChatGPT
+│
+├── 📄 Resume                         # 1 file
+├── 📄 Merged Certificates.pdf        # 86-page consolidated archive
+└── 📄 README.md
 ```
 
 ---
 
-## 💼 PROFESSIONAL EXPERIENCE
+## 📊 Credential Dashboard
 
-### 🎨 ICAT Design & Media College
+| Area | Repository Evidence |
+|:--|:--|
+| 🤖 **Artificial Intelligence & GenAI** | Coursera + UniAthena credentials covering AI fundamentals, ML, GenAI, prompt engineering, ChatGPT and AI infrastructure |
+| 🛡️ **Cybersecurity** | Ethical hacking, system/network security, enterprise security and cybersecurity-focused GenAI |
+| 💻 **Software Engineering** | Python, C, C++, JavaScript, PHP/Laravel, HTML5, databases and full-stack development |
+| ☁️ **Cloud & Infrastructure** | Oracle Cloud, AI infrastructure, RDMA and networking |
+| 📈 **Digital Marketing & SEO** | Google Digital Marketing & E-commerce and Search Engine Optimization credentials |
+| 📱 **Mobile Development** | Android and mobile application development |
+| 📊 **Data & Databases** | Python data analysis, R, SQL, RDBMS and Streamlit dashboards |
+| 🏆 **Verified Technical Skills** | 9 HackerRank certifications covering programming, frontend, SQL and software engineering |
+| 💼 **Professional Experience** | Website Design & Development Internship documentation from iStudio / Internship Studio |
+
+---
+
+## 🎓 Coursera Certificates — 66 Files
+
+The Coursera collection is the largest section of this repository. It contains individual course certificates, project certificates, and specialization / professional certificate credentials.
+
+### 🤖 AI, Machine Learning & Generative AI
+
+The archive includes credentials covering:
+
+- Foundations of AI and Machine Learning
+- AI and Machine Learning Algorithms and Techniques
+- Introduction to Artificial Intelligence
+- AI Infrastructure and Operations Fundamentals
+- Generative AI fundamentals and applications
+- Generative AI prompt engineering
+- Generative AI for cybersecurity
+- Generative AI for software development
+- Fast prototyping of GenAI applications with Streamlit
+- Machine Learning web application development with Streamlit
+- Interactive dashboards with Streamlit and Python
+- Chatbots
+
+The merged archive also contains an **IBM Generative AI for Cybersecurity Professionals** specialization credential and related IBM GenAI courses.
+
+### 🛡️ Cybersecurity & Ethical Hacking
+
+The Coursera archive includes credentials in:
+
+- Ethical Hacking
+- Ethical Hacking Fundamentals
+- Advanced Ethical Hacking & Cybersecurity
+- Ethical Hacking Practice Project & Questions
+- System & Network Security Essentials
+- Enterprise and Infrastructure Security
+- Introduction to Cybersecurity Essentials
+- Generative AI applications for cybersecurity
+
+The **Ethical Hacking** specialization certificate documents completion of four courses covering ethical hacking fundamentals, system and network security, advanced ethical hacking and practical assessment work.
+
+### 💻 Software & Web Development
+
+Credentials include:
+
+- Programming for Everybody (Getting Started with Python)
+- Python Data Structures
+- Using Python to Access Web Data
+- C for Everyone, Part 1: Programming Fundamentals
+- C++ for C Programmers, Part A
+- C++ for C Programmers, Part B
+- Interactivity with JavaScript
+- Introduction to HTML5
+- Master Full-Stack Web Development with Laravel & PHP
+- Learn Object-Oriented Programming with PHP
+- Build and deploy practical development projects
+
+### ☁️ Cloud, Infrastructure & High-Performance Computing
+
+The collection includes:
+
+- Introduction to Oracle Cloud Essentials
+- Oracle Cloud Infrastructure AI Foundations
+- Oracle Cloud Infrastructure Generative AI Professional
+- Oracle Cloud and AI specialization
+- The Fundamentals of RDMA Programming
+- Introduction to Networking
+- AI Infrastructure and Operations Fundamentals
+
+### 📊 Data, Databases & Analytics
+
+Credentials include:
+
+- Foundations: Data, Data, Everywhere
+- Capstone: Retrieving, Processing, and Visualizing Data with Python
+- R Programming
+- SQL: A Practical Introduction for Querying Databases
+- Introduction to Relational Databases (RDBMS)
+- Machine Learning and Streamlit projects
+- Interactive data dashboards with Streamlit and Python
+
+### 📈 Digital Marketing & SEO
+
+The archive contains the **Google Digital Marketing & E-commerce** professional certificate and individual credentials covering:
+
+- Foundations of Digital Marketing and E-commerce
+- Attract and Engage Customers with Digital Marketing
+- From Likes to Leads: Interact with Customers Online
+- Think Outside the Inbox: Email Marketing
+- Assess for Success: Marketing Analytics and Measurement
+- Make the Sale: Build, Launch, and Manage E-commerce Stores
+- Satisfaction Guaranteed: Develop Customer Loyalty Online
+- Accelerate Your Job Search with AI
+- Google SEO Fundamentals
+- Introduction to Google SEO
+- Optimizing a Website for Google Search
+- Advanced Content and Social Tactics to Optimize SEO
+- Google SEO Capstone Project
+- Search Engine Optimization specialization
+
+### 📱 Mobile Development
+
+Credentials include:
+
+- Introduction to Mobile App Development
+- Introduction to Android Mobile Application Development
+- Build Your First Android App
+
+### 🧩 Productivity & Business Tools
+
+The collection also includes credentials for:
+
+- Google Calendar
+- Google Docs
+- Google Drive
+- Google Sheets — Advanced Topics
+- Google Slides
+- Getting Started with Microsoft Excel
+
+---
+
+## 🏆 HackerRank Certificates — 9 Files
+
+The repository contains **9 HackerRank Certificate of Accomplishment** documents.
+
+| # | Verified Skill / Role |
+|:-:|:--|
+| 01 | C# (Basic) |
+| 02 | CSS (Basic) |
+| 03 | Frontend Developer (React) |
+| 04 | Java (Basic) |
+| 05 | JavaScript (Basic) |
+| 06 | JavaScript (Intermediate) |
+| 07 | Python (Basic) |
+| 08 | Software Engineer |
+| 09 | SQL (Basic) |
+
+These credentials provide assessment-based evidence of technical skills in programming, frontend development, SQL and software engineering.
+
+---
+
+## 💼 iCAT / iStudio Internship — 3 Documents
+
+The internship section contains three professional documents:
+
+| Document | Purpose |
+|:--|:--|
+| 📄 **Internship Offer Letter** | Official internship offer following the iCAT assessment |
+| 📜 **Training Certificate** | Completion of Website Design and Development training |
+| 🎓 **Internship Certificate** | Completion of the Website Design and Development Internship |
+
+### Internship Details
+
 **Role:** Website Design and Development Intern  
-**Status:** ✅ Completed with Full Documentation
+**Organization:** iStudio / Internship Studio  
+**Joining Date:** 5 November 2025  
+**Completion Date:** 8 February 2026  
+**Duration:** 3 Months
 
-**Internship Artifacts:**
-| Document | Purpose | Verification Status |
-|:---------|:--------|:-------------------|
-| 📄 Offer Letter | Official Appointment | ✅ Verified |
-| 📚 Training Certificate | Skills Development Program | ✅ Verified |
-| 🎓 Internship Completion Certificate | Program Completion | ✅ Verified |
-
-**Key Contributions:**
-- Website design and development projects
-- Professional training in industry-standard practices
-- Hands-on experience in design & media workflows
+The merged archive contains these three internship documents on **pages 1–3**.
 
 ---
 
-## 📊 TECHNICAL ARCHITECTURE & STACK
+## 📚 UniAthena Certificates — 4 Files
 
-### 🔧 Core Technology Stack
+The UniAthena section contains four credentials:
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                      FULL-STACK ARCHITECTURE                      │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  FRONTEND        BACKEND         DATABASE        DEVOPS         │
-│  ─────────       ───────         ─────────       ──────         │
-│  • React         • Python         • MySQL        • Git          │
-│  • JavaScript    • PHP/Laravel    • PostgreSQL   • Streamlit    │
-│  • HTML5         • Java           • Oracle DB    • OCI           │
-│  • CSS3          • C/C++          • RDBMS        • Docker        │
-│  • GenAI UI      • Node.js                                       │
-│                                                                 │
-├─────────────────────────────────────────────────────────────────┤
-│                      SPECIALIZED DOMAINS                        │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  🤖 AI/ML            🛡️ SECURITY           ☁️ CLOUD                │
-│  • OpenAI API        • Penetration Testing  • Oracle Cloud       │
-│  • Hugging Face      • Vulnerability Mgmt • AWS/GCP Basics     │
-│  • TensorFlow        • Network Security     • RDMA               │
-│  • PyTorch           • Ethical Hacking      • Infrastructure     │
-│  • Scikit-learn      • SIEM Tools           • Containers         │
-│  • LangChain         • Compliance           • Serverless         │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+| # | Credential | Credential Level |
+|:-:|:--|:--:|
+| 01 | **Basics of Artificial Intelligence** | Level 7 |
+| 02 | **Basics of Machine Learning Algorithms** | Level 7 |
+| 03 | **Basics of Python** | Level 7 |
+| 04 | **Master ChatGPT** | Level 5 |
+
+The certificates identify UniAthena as the course provider; the AI, Machine Learning and Python certificates also reference Cambridge International Qualifications, UK.
+
+The merged archive contains the four UniAthena credentials together with their **Records of Learning and Achievement**, occupying **pages 79–86**.
 
 ---
 
-## 🎯 PROFESSIONAL VALUE PROPOSITION
+## 📦 Merged Certificate Archive
 
-### What Sets This Portfolio Apart:
+### `Merged Certificates.pdf`
 
-| Unique Value Driver | Evidence |
-|:--------------------|:---------|
-| **🔄 Cross-Domain Integration** | Rare combination of AI/ML + Cybersecurity + Marketing |
-| **☁️ Enterprise Cloud Focus** | Oracle Cloud specialization for enterprise environments |
-| **🛡️ Security-First Development** | Ethical Hacking background ensures secure-by-design approach |
-| **📊 Data-Driven Marketing** | Technical skills + Marketing = Growth Engineering |
-| **🚀 Production-Ready AI** | Streamlit + GenAI + Cloud deployment capabilities |
-| **✅ Verified Technical Skills** | HackerRank certifications prove practical coding ability |
+A single consolidated PDF is included for convenient review and sharing.
 
-### Strategic Competency Combinations:
+| Page Range | Section | Content |
+|:--:|:--|:--|
+| **1–3** | 💼 iCAT Internship | 3 internship documents |
+| **4–69** | 🎓 Coursera | 66 certificate pages |
+| **70–78** | 🏆 HackerRank | 9 certificate pages |
+| **79–86** | 📚 UniAthena | 4 certificates + 4 learning-record pages |
 
-1. **🔐 AI-Powered Cybersecurity:** GenAI + Security credentials enable next-gen threat detection
-2. **📈 Technical Marketing:** Engineering skills + Marketing = Growth & SEO engineering
-3. **☁️ Cloud-Native AI:** OCI + GenAI expertise for enterprise AI deployment
-4. **💻 Full-Stack + AI:** End-to-end development with intelligent capabilities
+### Why keep a merged copy?
 
----
-
-## 📁 Repository Documentation Structure
-
-```
-📦 Professional Portfolio
-├── 📄 Arham Topiwala CV.pdf (Curriculum Vitae)
-├── 📄 Arham__resume.pdf (Resume with Portfolio)
-│
-├── 🏆 Hackerrank Certificates/
-│   ├── c_sharp_basic certificate.pdf
-│   ├── css certificate.pdf
-│   ├── frontend_developer_react certificate.pdf
-│   ├── java_basic certificate.pdf
-│   ├── javascript_basic certificate.pdf
-│   ├── javascript_intermediate certificate.pdf
-│   ├── python_basic certificate.pdf
-│   ├── software_engineer certificate.pdf
-│   └── sql_basic certificate.pdf
-│
-├── 💼 Icat Internship/
-│   ├── Arham Topiwala - Website Design and Development Internship - Offer Letter.pdf
-│   ├── Arham Topiwala - Website Design and Development Internship - Training.pdf
-│   └── Arham Topiwala - Website Design and Development Internship - Internship.pdf
-│
-├── 📜 Individual Course Certificates (65+ PDFs)
-│   ├── AI & ML Certifications (14)
-│   ├── Cybersecurity Certifications (7)
-│   ├── Programming Certifications (15)
-│   ├── Google Digital Marketing (14)
-│   ├── Cloud Computing (5)
-│   └── Google Workspace (6)
-│
-└── 🎓 UniAthena Certificates/ (Reserved for future credentials)
-```
+- ✅ One file for portfolio / credential review
+- ✅ Easy to share with recruiters or institutions
+- ✅ Preserves the complete certificate archive in one place
+- ✅ Keeps individual certificates available separately for verification
+- ✅ Includes supporting internship and learning-record documentation
 
 ---
 
-## 🚀 FUTURE TRAJECTORY & ROADMAP
+## 🔎 Credential Highlights
 
-```
-2026 Roadmap:
+### Generative AI
+Hands-on and theoretical learning across:
 
-Q2          Q3          Q4
- │           │           │
- ▼           ▼           ▼
-┌───┐      ┌────┐      ┌──────┐
-│AWS│─────►│K8s │─────►│DevOps│
-│   │      │    │      │      │
-└───┘      └────┘      └──────┘
-Cloud    Container    CI/CD
-Pract.   Orchestra.   Pipeline
-```
+`Generative AI` • `Prompt Engineering` • `Chatbots` • `AI Applications` • `GenAI for Cybersecurity` • `GenAI for Software Development` • `Streamlit`
 
-**Upcoming Domains:**
-- ☁️ **AWS Solutions Architect** - Multi-cloud expertise
-- 🐳 **Docker & Kubernetes** - Container orchestration
-- 🔧 **DevOps & CI/CD** - Pipeline automation
-- 🧠 **Advanced GenAI** - LLM fine-tuning & RAG systems
+### Cybersecurity
+Core areas represented in the credentials:
+
+`Ethical Hacking` • `Network Security` • `System Security` • `Enterprise Security` • `Cybersecurity` • `Threat Detection` • `Penetration Testing`
+
+### Development
+Technical learning across:
+
+`Python` • `C` • `C++` • `JavaScript` • `PHP` • `Laravel` • `HTML5` • `SQL` • `R` • `React` • `Android`
+
+### Cloud & Infrastructure
+
+`Oracle Cloud` • `OCI AI` • `AI Infrastructure` • `Networking` • `RDMA`
+
+### Marketing & SEO
+
+`Digital Marketing` • `E-commerce` • `SEO` • `Email Marketing` • `Analytics` • `Content Strategy` • `Customer Engagement`
 
 ---
 
-## 📞 PROFESSIONAL CONNECT
+## 📜 Verification & Authenticity
+
+The certificates in this repository contain platform-specific verification information where provided by the issuing platform.
+
+The merged PDF includes credentials from:
+
+- **Coursera**
+- **Google**
+- **IBM**
+- **Oracle**
+- **Microsoft**
+- **Meta**
+- **NVIDIA**
+- **University of Michigan**
+- **University of California, Santa Cruz**
+- **University of California, Davis**
+- **Johns Hopkins University**
+- **New York University**
+- **EC-Council / LearnKartS**
+- **HackerRank**
+- **UniAthena**
+- **Cambridge International Qualifications, UK**
+- **iStudio / Internship Studio**
+
+> Certificate names and issuing organizations are presented according to the documents in the merged archive.
+
+---
+
+## 📄 Resume
+
+The repository also contains my current **resume**, providing a concise overview of my education, technical skills, projects and professional experience.
+
+For the complete credential history, use the certificate folders and `Merged Certificates.pdf`.
+
+---
+
+## 🧭 Recommended Repository Navigation
+
+**Looking for a specific credential?**
+
+1. **Coursera credential** → open `Coursera Certificates/`
+2. **Programming / role assessment** → open `Hackerrank Certificates/`
+3. **Internship proof** → open `Icat Internship/`
+4. **UniAthena credential** → open `UniAthena Certificates/`
+5. **Complete archive** → open `Merged Certificates.pdf`
+6. **Professional profile** → open the `Resume`
+
+---
+
+## 📈 Credential Portfolio Snapshot
+
+```text
+Coursera Certificates     ██████████████████████████████████  66
+HackerRank Certificates   █████                              9
+UniAthena Certificates    ██                                 4
+iCAT Documents            ██                                 3
+Resume                    █                                    1
+```
+
+### Core Learning Themes
+
+```text
+AI / GenAI               ████████████████████████
+Cybersecurity            ██████████████████
+Software Development     ███████████████████████
+Cloud & Infrastructure   ███████████████
+Data & Databases         ███████████████
+Digital Marketing / SEO  ███████████████████
+Mobile Development       ████████
+Productivity             ████████
+```
+
+> The bars above are **visual category indicators**, not percentage-based proficiency scores.
+
+---
+
+## 🎯 Professional Direction
+
+This credential portfolio supports a multidisciplinary technical profile combining:
+
+**Software Development + Artificial Intelligence + Cybersecurity + Cloud + Data + Digital Technology**
+
+The repository is intended to document continuous technical learning and provide a transparent, organized record of completed certifications, assessments and professional training.
+
+---
+
+## 📝 Repository Notes
+
+- Certificate counts are based on the current repository structure.
+- The **merged PDF contains 86 pages**, while the repository contains **82 individual credential / internship documents** because the four UniAthena certificates each include an additional Record of Learning and Achievement page in the merged archive.
+- The HackerRank certificates are included in the merged PDF on pages **70–78**.
+- The UniAthena certificates and their learning records are included on pages **79–86**.
+- Individual files should be preferred when a recruiter, institution or organization requires a specific credential.
+- The merged PDF is intended as a convenient consolidated portfolio.
+
+---
 
 <div align="center">
 
-**All certifications in this repository are:**
-✅ Verifiable | ✅ Industry-Recognized | ✅ Current | ✅ PDF-Documented
+### ✦ Learn. Build. Verify. Grow. ✦
 
-**Platforms:** Coursera • Google • IBM • Oracle • EC-Council • HackerRank • Meta • University of Michigan • UC Santa Cruz • Johns Hopkins
+**ARHAM TOPIWALA**
 
-</div>
+*Creative Developer • Full-Stack Developer • Software Engineer*
 
----
-
-<div align="center">
-
-### `Building Tomorrow's Solutions with Today's Knowledge`
-
-**Last Updated:** May 2026
+**Last Updated: October 2026**
 
 </div>
